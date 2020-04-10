@@ -1,6 +1,9 @@
 ## Mobile Dashboard
 A POC Mobile Dashboard HTML Project for a friend
 
+## Design Spec 
+https://github.com/dsk90it/mobile-dashboard/blob/master/POC.pdf
+
 ## Tech Stack
 HTML, CSS & Bootstrap
 
