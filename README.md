@@ -5,7 +5,9 @@ A POC Mobile Dashboard HTML Project for a friend
 [Design Link](POC.pdf)
 
 ## Tech Stack
-HTML, CSS & Bootstrap
+- HTML
+- CSS
+- Bootstrap
 
 ## Demo
 https://dashboard-xs.netlify.com/
